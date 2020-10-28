@@ -96,8 +96,8 @@ https://www.lancers.jp/profile/toretoresansan11
 | 2020年1月-2020年2月|総合管理システム改修 |Java,Javascript,Oracle|製造-単体テスト|
 | 2020年3月-2020年3月|在庫管理システム改修 |ASP.NET MVC(C#),Oracle,Javascript|製造-単体テスト|
 | 2020年4月-2020年5月|薬剤管理システム再構築 |ASP.NET MVC(C#),Oracle,Javascript|要件定義-基本設定|
-| 2020年6月-2020年6月|クラウドソーシング Windowsデスクトップアプリ開発支援、WEBサイト開発支援 |C#,SQLServer,PHP,Javascript,Mysql|製造-単体テスト|
-| 2020年7月-2020年10月|クラウドソーシング Windowsデスクトップアプリ開発支援、WEBサイト構築、WEBサイト開発支援 |C#,SQLServer,PHP,Javascript,Mysql|製造-単体テスト|
+| 2020年6月-2020年6月|クラウドソーシング 開発支援 |C#,SQLServer,PHP,Javascript,Mysql|製造-単体テスト|
+| 2020年7月-2020年10月|クラウドソーシング 開発支援、WEBサイト構築 |C#,SQLServer,PHP,Javascript,Mysql|製造-単体テスト|
 
 ※「構築」・・・新規開発
 　「改修」・・・機能追加等
