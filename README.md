@@ -13,7 +13,7 @@
 | C#      |3年以上|
 | VB.NET      |10年以上|
 | ASP.NET(MVC含み)      |3年以上|
-| PHP(cakePHP)       |1年以上 |
+| PHP(cakePHP)       |3年以上 |
 | PL/SQL      |2年以上 |
 | javascript      |7年以上 |
 | jQuery      |2年以上 |
