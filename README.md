@@ -1,5 +1,5 @@
 # 業務経歴書
-2026/08/18 現在
+2026/10/06 現在
 
 ## 基本情報
 | 種類 | 値 |
@@ -44,7 +44,7 @@
 
 | 期間 | 業務名 | 工程 | 主要技術 | 人数 | 役割 |
 |:-----------|:------------|:------------|:------------|:------------|:------------|
-| 2021/08 - 2026/08 | マッチング系WEBサイト機能追加（決済機能・API連携の実装、MySQLチューニング等。多数のサイトのカスタマイズを担当） | 製造（実装）～テスト、DB環境構築・チューニング | PHP, JavaScript, jQuery, MySQL | 3程度 | メンバー |
+| 2021/08 - 2026/10 | マッチング系WEBサイト機能追加（決済機能・API連携の実装、MySQLチューニング等。多数のサイトのカスタマイズを担当） | 製造（実装）～テスト、DB環境構築・チューニング | PHP, JavaScript, jQuery, MySQL | 3程度 | メンバー |
 | 2020/10 - 2021/07 | マッチング系WEBサイト機能追加／業務系WEBサイト新規構築・機能追加／Windowsデスクトップアプリ新規・機能追加 | 設計～テスト | PHP, ASP.NET MVC (C#), Windows Forms (C#), JavaScript, jQuery, CSS, MySQL, SQL Server | - | メンバー |
 | 2020/09 - 2020/09 | サービス系WEBサイト機能追加／Windowsデスクトップアプリ開発支援 | 製造～テスト | PHP (CakePHP), ASP.NET MVC (C#), Windows Forms (C#), JavaScript, jQuery, CSS, MySQL, SQL Server | - | メンバー |
 | 2020/08 - 2020/08 | 業務系WEBサイト機能追加／Windowsデスクトップアプリ開発支援 | 製造～テスト | ASP.NET MVC (C#), Windows Forms (C#), JavaScript, jQuery, CSS, MySQL, SQL Server | - | メンバー |
